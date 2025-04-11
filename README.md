@@ -2,7 +2,7 @@
 
 A simple blog dashboard built with **Next.js**, **TypeScript**, **Material-UI**, and **RTK Query**. This project demonstrates CRUD operations with a mock API, clean UI using MUI, and proper state management.
 
-##  Live Demo
+## Live Demo
 
  [Live Site](https://blog-dashboard-3rss-r88u3w4re-krupas-projects-ceac6054.vercel.app/posts)
 
